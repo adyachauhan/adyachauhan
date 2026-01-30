@@ -43,4 +43,4 @@ I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer V
 - ✉️ Email: adya.careers.xo@gmail.com
 
 ### ⚡ Fun fact
-I’m a certified musician 🎸 and have been part of award-winning bands — turns out pattern recognition helps both in music and ML.
+I’m a certified musician 🎸 and have been part of award-winning bands — turns out pattern recognition helps both in music and ML :P
