@@ -11,11 +11,6 @@ I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer V
 - End-to-end ML pipelines with **FastAPI & Docker**
 - Computer vision models for real-world datasets
 
-### 👯 Open to collaborating on
-- GenAI / LLM-based projects  
-- NLP or Computer Vision research  
-- ML systems with real deployment use cases
-
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, SQL, JavaScript  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
