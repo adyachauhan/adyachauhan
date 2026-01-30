@@ -11,19 +11,10 @@ I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer V
 - End-to-end ML pipelines with **FastAPI & Docker**
 - Computer vision models for real-world datasets
 
-### 🌱 Currently learning
-- Advanced **RAG & Agentic AI** architectures  
-- Scalable **MLOps** and model serving strategies
-
 ### 👯 Open to collaborating on
 - GenAI / LLM-based projects  
 - NLP or Computer Vision research  
 - ML systems with real deployment use cases
-
-### 💬 Ask me about
-- LLM fine-tuning & prompt engineering  
-- CNNs, NLP pipelines, and ML evaluation  
-- Deploying ML models to production
 
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, SQL, JavaScript  
