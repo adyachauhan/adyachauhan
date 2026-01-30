@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**adyachauhan/adyachauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Adya Chauhan**, an **AI & Machine Learning Engineer** passionate about building real-world, production-ready ML systems.
 
-Here are some ideas to get you started:
+I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer Vision**, with a strong focus on model deployment, optimization, and responsible AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I’m working on
+- Generative AI applications using **LLMs & Transformers**
+- End-to-end ML pipelines with **FastAPI & Docker**
+- Computer vision models for real-world datasets
+
+### 🌱 Currently learning
+- Advanced **RAG & Agentic AI** architectures  
+- Scalable **MLOps** and model serving strategies
+
+### 👯 Open to collaborating on
+- GenAI / LLM-based projects  
+- NLP or Computer Vision research  
+- ML systems with real deployment use cases
+
+### 💬 Ask me about
+- LLM fine-tuning & prompt engineering  
+- CNNs, NLP pipelines, and ML evaluation  
+- Deploying ML models to production
+
+### 🛠️ Tech Stack
+**Languages:** Python, C++, SQL, JavaScript  
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+**GenAI:** LLMs, Transformers, RAG, Prompt Engineering  
+**Vision:** OpenCV, CNNs, CVAT  
+**Deployment:** FastAPI, Docker, Git  
+
+### 📌 Featured Projects
+- **Lung Cancer Detection using CNN** — F1 score: 0.91  
+- **Image Caption Generator (CNN-LSTM)** — BLEU-1: 0.534  
+- **Network Intrusion Detection System** — ROC-AUC: 0.96  
+
+### 📫 How to reach me
+- 💼 LinkedIn: https://linkedin.com/in/adya-chauhan-557348295/
+- 💻 GitHub: https://github.com/adyachauhan
+- ✉️ Email: adya.careers.xo@gmail.com
+
+### ⚡ Fun fact
+I’m a certified musician 🎸 and have been part of award-winning bands — turns out pattern recognition helps both in music and ML.
