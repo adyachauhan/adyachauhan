@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-I’m **Adya Chauhan**, an **AI & Machine Learning Engineer** passionate about building real-world, production-ready ML systems.
+I’m **Adya**, an **AI & Machine Learning Engineer** passionate about building real-world, production-ready ML systems.
 
 I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer Vision**, with a strong focus on model deployment, optimization, and responsible AI.
 
@@ -34,4 +34,4 @@ I work across **Large Language Models (LLMs), Deep Learning, NLP, and Computer V
 - ✉️ Email: adya.careers.xo@gmail.com
 
 ### ⚡ Fun fact
-I’m a certified musician 🎸 and have been part of award-winning bands — turns out pattern recognition helps both in music and ML :P
+I’m a certified musician 🎸 and have been part of an award-winning band :P
