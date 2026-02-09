@@ -1,4 +1,4 @@
-## Hi ♫⋆｡♪ ₊˚♬ ﾟ.
+## Hello there ♫⋆｡♪ ₊˚♬ ﾟ.
 
 I’m **Adya**, an **AI & Machine Learning Engineer** passionate about building real-world, production-ready ML systems.
 
